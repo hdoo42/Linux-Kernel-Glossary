@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "0e21c48323d871fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "2abd84d46290f680",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d3e6ea18691fc95",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          },
+          {
+            "id": "3c3f3f20c3ae2795",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FAT32.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FAT32"
+            }
+          },
+          {
+            "id": "2e0082f6026a9620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux Kernel Glossary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux Kernel Glossary"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30f404e6dad78680",
+    "type": "split",
+    "children": [
+      {
+        "id": "8aabccb3b8550233",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "481adf52b91e2f40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "f8b057b756c35da4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "701b1610acb29201",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2680b7fc785eedda",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0e82ed969bff7dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83ca7cfafc90bab7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux Kernel Glossary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Linux Kernel Glossary 의 백링크"
+            }
+          },
+          {
+            "id": "f8f8d95cf97237e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux Kernel Glossary.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Linux Kernel Glossary 의 나가는 링크"
+            }
+          },
+          {
+            "id": "2c31eddd7373c7dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "15c61b1ff311cf5f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "92e03d581f597153",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux Kernel Glossary.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Linux Kernel Glossary 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "2e0082f6026a9620",
+  "lastOpenFiles": [
+    "NVMe.md",
+    "ESP.md",
+    "FAT32.md",
+    "Linux Kernel Glossary.md",
+    "UEFI.md",
+    "GPT.md",
+    "MMIO.md",
+    "PCH.md",
+    "BIOS.md",
+    "EFI.md",
+    "ZB.md",
+    "NVRAM.md",
+    "TSL.md",
+    "BDS.md",
+    "DXE.md",
+    "PEI.md",
+    "16비트 리얼 모드.md",
+    "Protected Mode.md",
+    "Real Mode.md",
+    "MBR.md",
+    "Root of Trust.md",
+    "PCIe.md"
+  ]
+}
