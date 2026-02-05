@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2abd84d46290f680",
+        "id": "6f22ffd0a21daed1",
         "type": "tabs",
         "children": [
           {
-            "id": "5d3e6ea18691fc95",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
-            }
-          },
-          {
-            "id": "3c3f3f20c3ae2795",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FAT32.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FAT32"
-            }
-          },
-          {
-            "id": "2e0082f6026a9620",
+            "id": "835b0a5285c155f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,8 +21,7 @@
               "title": "Linux Kernel Glossary"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,8 +74,7 @@
               "title": "북마크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,29 +183,33 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "2e0082f6026a9620",
+  "active": "835b0a5285c155f7",
   "lastOpenFiles": [
-    "NVMe.md",
-    "ESP.md",
-    "FAT32.md",
+    "BDS.md",
     "Linux Kernel Glossary.md",
+    "PCIe.md",
+    "Real Mode.md",
+    "TSL.md",
+    "NVMe.md",
+    "BIOS.md",
+    "DXE.md",
+    "Multi-vector MSI-X.md",
+    "Protected Mode.md",
+    "16비트 리얼 모드.md",
+    "ZB.md",
+    "extern.md",
+    "glob.md",
+    "FAT32.md",
+    "Root of Trust.md",
+    "MSI.md",
+    "ESP.md",
     "UEFI.md",
     "GPT.md",
     "MMIO.md",
     "PCH.md",
-    "BIOS.md",
     "EFI.md",
-    "ZB.md",
     "NVRAM.md",
-    "TSL.md",
-    "BDS.md",
-    "DXE.md",
     "PEI.md",
-    "16비트 리얼 모드.md",
-    "Protected Mode.md",
-    "Real Mode.md",
-    "MBR.md",
-    "Root of Trust.md",
-    "PCIe.md"
+    "MBR.md"
   ]
 }
