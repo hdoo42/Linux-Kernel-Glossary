@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Kernel Source Code.md",
+                "file": "list_add_tail.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux Kernel Source Code"
+              "title": "list_add_tail"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Kernel Source Code.md",
+                "file": "module_init.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux Kernel Source Code"
+              "title": "module_init"
             }
           },
           {
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -254,17 +255,26 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "3c1faa80978c58a2",
+  "active": "2f0adf206eba5679",
   "lastOpenFiles": [
+    "Linux Kernel Source Code.md",
+    "list_add_tail.md",
+    "module.h.md",
+    "module_init.md",
+    "rodata.md",
+    "__init, __exit.md",
+    "__section.md",
+    "kzalloc.md",
+    "obj-y obj-m.md",
+    "`__init`, `__exit`.md",
+    "Linux Kernel Glossary.md",
+    "Ring Buffer.md",
     "printk_get_level()의 switch 문과 KERN_SOH_ASCII 동작 정리.md",
     "printk_get_level.md",
-    "Linux Kernel Source Code.md",
     "lsmod의 size.md",
     "footprint.md",
     "bss.md",
-    "rodata.md",
     "NVMe.md",
-    "Linux Kernel Glossary.md",
     "BDS.md",
     "PCIe.md",
     "Real Mode.md",
@@ -272,15 +282,6 @@
     "BIOS.md",
     "DXE.md",
     "Multi-vector MSI-X.md",
-    "Protected Mode.md",
-    "16비트 리얼 모드.md",
-    "ZB.md",
-    "extern.md",
-    "glob.md",
-    "FAT32.md",
-    "Root of Trust.md",
-    "MSI.md",
-    "ESP.md",
-    "UEFI.md"
+    "Protected Mode.md"
   ]
 }
